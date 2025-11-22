@@ -11,10 +11,10 @@ To access this mobile app, you need to download the Expo Go app which is availab
 Once you have Expo Go installed, scan the QR code below from your mobile device:
 
 <div align="center">
-  <img src="./assets/qr-code.png" alt="QR Code for Expo App" width="300" height="300" />
+  <img src="./assets/qr-code.jpg" alt="QR Code for Expo App" width="300" height="300" />
 </div>
 
-**Note**: Make sure your mobile device and computer are on the same network, or use the tunnel option when starting the Expo server (`npx expo start --tunnel`). 
+**Note**: Make sure your mobile device and computer are on the same network, or use the tunnel option when starting the Expo server (`npx expo start --tunnel`).
 
 # Inventory Management System
 
