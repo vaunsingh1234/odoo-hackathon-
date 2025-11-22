@@ -1,7 +1,20 @@
-So we have made a mobile app
-to access this mobile app we have to download an app which is awailabe on appstore/playstore
-downloading link : https://play.google.com/store/apps/details?id=host.exp.exponent
-now scan this qr code from ur mobile 
+# Inventory Management System - Mobile App
+
+## Quick Start
+
+To access this mobile app, you need to download the Expo Go app which is available on App Store/Play Store:
+
+**Download Link**: https://play.google.com/store/apps/details?id=host.exp.exponent
+
+### Scan QR Code
+
+Once you have Expo Go installed, scan the QR code below from your mobile device:
+
+<div align="center">
+  <img src="./assets/qr-code.png" alt="QR Code for Expo App" width="300" height="300" />
+</div>
+
+**Note**: Make sure your mobile device and computer are on the same network, or use the tunnel option when starting the Expo server (`npx expo start --tunnel`). 
 
 # Inventory Management System
 
